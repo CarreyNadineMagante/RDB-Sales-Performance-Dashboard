@@ -70,7 +70,7 @@ The dominance of the Mains category also indicates that the business's core prod
 
 Meanwhile, the Bazaar Performance analysis highlights which events generated the greatest revenue and order volume, providing useful information for evaluating future selling opportunities.
 
-## 📁 Project Files
+## Project Files
 
 | File | Description |
 |---|---|
@@ -91,6 +91,6 @@ Meanwhile, the Bazaar Performance analysis highlights which events generated the
 - Sales performance analysis
 - Business insight generation
 
-## 👩‍💻 Project Author
+## Project Author
 
-**Carrey Nadine Magante**
+**Carrey Nadine S. Magante**
