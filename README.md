@@ -1,18 +1,18 @@
 # Rueda de Birria Sales Performance Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 An interactive sales performance dashboard created for **Rueda de Birria (RDB)**, a small food business.
 
 This project analyzes sales data from August 2025 to April 2026 to evaluate revenue, order volume, product category performance, selling periods, and bazaar performance. The dashboard transforms raw sales data into interactive visualizations that can be used to identify sales patterns and business opportunities.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Microsoft Excel** – Data preparation and organization
 - **SQL** – Data querying and analysis
 - **Power BI** – Data visualization and dashboard development
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The project aims to:
 
@@ -24,7 +24,7 @@ The project aims to:
 - Evaluate average order value across selling events
 - Identify top-performing selling periods
 
-## 📈 Dashboard
+## Dashboard
 
 ### Page 1 — Sales Overview
 
@@ -60,7 +60,7 @@ The Bazaar Performance page evaluates revenue, order volume, and average order v
 - **UST Tunog Tomasino** generated approximately **₱54.24K** in revenue.
 - **Birthday Bulk Order** recorded the highest average order value at **₱20,000**, although this was based on a single order.
 
-## 🔍 Business Insights
+## Business Insights
 
 The analysis shows that RDB's sales performance is strongly influenced by **selling events, time of day, and product category**.
 
