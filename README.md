@@ -75,7 +75,7 @@ Meanwhile, the Bazaar Performance analysis highlights which events generated the
 | File | Description |
 |---|---|
 | `RDB Sales Performance Analysis.pbix` | Power BI dashboard |
-| `sales_data.xlsx` | Sales dataset used for the analysis |
+| `data/rdb_sales_data.csv` | Sales dataset used for the analysis |
 | `SQL_queries.sql` | SQL queries used for data analysis |
 | `dashboard_page1.png` | Sales Overview dashboard |
 | `dashboard_page2.png` | Bazaar Performance dashboard |
